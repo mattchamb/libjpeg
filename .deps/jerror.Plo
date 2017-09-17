@@ -1,0 +1,59 @@
+jerror.lo: jerror.c jinclude.h jconfig.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libcxx/stddef.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libcxx/__config \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/stddef.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/bits/alltypes.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libcxx/stdlib.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/compat/stdlib.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/stdlib.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/features.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/alloca.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libcxx/stdio.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/stdio.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libcxx/string.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/compat/string.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/string.h \
+  /mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/strings.h \
+  jpeglib.h jmorecfg.h jversion.h jerror.h
+
+jinclude.h:
+
+jconfig.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libcxx/stddef.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libcxx/__config:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/stddef.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/bits/alltypes.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libcxx/stdlib.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/compat/stdlib.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/stdlib.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/features.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/alloca.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libcxx/stdio.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/stdio.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libcxx/string.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/compat/string.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/string.h:
+
+/mnt/c/Projects/webassembly_test/emsdk-portable/emscripten/1.37.21/system/include/libc/strings.h:
+
+jpeglib.h:
+
+jmorecfg.h:
+
+jversion.h:
+
+jerror.h:
